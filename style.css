@@ -1,0 +1,40 @@
+/* Styling the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    margin: 20px;
+    padding: 10px;
+}
+
+/* Styling a class */
+.main-title {
+    color: #2c3e50;
+    font-size: 28px;
+    text-align: center;
+}
+
+/* Styling an ID */
+#highlight-box {
+    background-color: #f9f6f2;
+    border: 2px solid #ffa500;
+    padding: 15px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+/* Styling an image */
+.styled-image {
+    display: block;
+    margin: 10px auto;
+    border: 3px solid #555;
+    width: 50%;
+    border-radius: 10px;
+}
+
+/* Styling another class */
+.description {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
